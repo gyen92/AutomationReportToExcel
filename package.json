@@ -1,0 +1,19 @@
+{
+  "name": "automationreporttotable",
+  "version": "1.0.0",
+  "description": "This is to convert json file containing Aumation report to excel file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyen92/AutomationReportToExcel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gyen92/AutomationReportToExcel/issues"
+  },
+  "homepage": "https://github.com/gyen92/AutomationReportToExcel#readme"
+}
